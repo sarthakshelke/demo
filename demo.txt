@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 asasas
 zzzzzzzzzzzzzzzzzzzz
+=======
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+>>>>>>> 2ec383bf044c32ea02036a93f1738defe6607fe1
+ssssssssssssssssss
+aaaaaaaaaaaaaaaaaaa
